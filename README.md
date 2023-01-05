@@ -3,6 +3,7 @@
 ######### ENGLISH ###########
 
 Ottoman Turkish Script
+
 This is a future project which aims convert LATIN Turkish text to Ottoman style Turkish in succesful way and fully automatic.
 This is a project that sheds light on the future and the past. Although there are translation studies from Ottoman Turkish to Latin Turkish, a reverse script translation is a rarity as there is no need for it. In this respect, with this study, being able to write today's Turkish language with all its rules and with the Qur'an alphabet as it should be will increase both today's reading habits and familiarity with the books written in the past. Since the success of the project will be with use, contributions and effort, we believe that presenting the codes here would be a good start.
 "Success is only from Allah"
@@ -13,7 +14,8 @@ https://github.com/khaled-alshamaa/ar-php, 2022
 ######### LATIN TURKISH ###########
 
 Osmanlı Türkçesi Yazılımı
-Bu geleceğe ve geçmişe ışık tutan bir projedir. Her ne kadar Osmanlı Türkçesinden Latin Türkçeye çeviri çalışmaları bulunsa da, ihtiyaç görülmediğinden ters istikamette bir yazı çevirisi nadirattan. Bu itibarla bu çalışma ile günümüz Türkçe lisanını tüm kuralarıyla ve olması gerektiği gibi Kur'an alfabesiyle yazabilmek, Milletimizin hem bugünün okuma alışkınlarını hem de geçmişte yazılan kitaplara aşinalığını artıracaktır. Projenin başarılı olması kullanım , katkılar ve emekle olacağından kodları burada açık olarak sunmanın iyi bir başlangıç olacağı kanaatindeyiz.  
+
+Bu geleceğe ve geçmişe ışık tutan bir projedir. Her ne kadar Osmanlı Türkçesinden Latin Türkçeye çeviri çalışmaları bulunsa da, ihtiyaç görülmediğinden ters istikamette bir yazı çevirisi nadirattan. Bu itibarla bu çalışma ile günümüz Türkçe lisanını tüm kuralarıyla ve olması gerektiği gibi Kur'an alfabesiyle yazabilmek, Milletimizin hem bugünün okuma alışkanlıklarını hem de geçmişte yazılan kitaplara aşinalığını artıracaktır. Projenin başarılı olması kullanım , katkılar ve emekle olacağından kodları burada açık olarak sunmanın iyi bir başlangıç olacağı kanaatindeyiz. Kodların kaynaklarının belirtilmesi ile kullanılması serbesttir. Ancak kodlarda yapılacak geliştirmeler ve öneriler yine burada paylaşılacağından bu katkıdan her kişinin faydalanması için göndermesini temenni ederiz.
 Osmanlı Türkçesi temel olarak "Ar-php" adlı transliterasyon projesinden faydalanmışdır.
 Bu projenin detaylarına aşağıdaki bağlantıdan ulaşabilirsiniz.
 Tevfik Allahü Teala' dandır.
