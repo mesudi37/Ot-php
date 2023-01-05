@@ -3,6 +3,8 @@
 ######### ENGLISH ###########
 Ottoman Turkish Script
 This is a future project which aims convert LATIN Turkish text to Ottoman style Turkish in succesful way and fully automatic.
+This is a project that sheds light on the future and the past. Although there are translation studies from Ottoman Turkish to Latin Turkish, a reverse script translation is a rarity as there is no need for it. In this respect, with this study, being able to write today's Turkish language with all its rules and with the Qur'an alphabet as it should be will increase both today's reading habits and familiarity with the books written in the past. Since the success of the project will be with use, contributions and effort, we believe that presenting the codes here would be a good start.
+"Success is only from Allah"
 Ottoman Turkish script commonly inspired from a great project Ar-php 
 K. Al-Shamaa, Ar-PHP, PHP library for website developers to process Arabic content, 
 https://github.com/khaled-alshamaa/ar-php, 2022
