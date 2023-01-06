@@ -11,6 +11,8 @@ Ottoman Turkish script commonly inspired from a great project Ar-php
 K. Al-Shamaa, Ar-PHP, PHP library for website developers to process Arabic content, 
 https://github.com/khaled-alshamaa/ar-php, 2022
 
+TEST : https://cevir.teknikvideo.net/
+
 ######### LATIN TURKISH ###########
 
 Osmanlı Türkçesi Yazılımı
@@ -22,6 +24,8 @@ Tevfik Allahü Teala' dandır.
 K. Al-Shamaa, Ar-PHP, PHP library for website developers to process Arabic content, 
 https://github.com/khaled-alshamaa/ar-php, 2022
 
+TEST : https://cevir.teknikvideo.net/
+
 ######### OTTOMAN TURKISH ###########
 
 --- İHTAR : Üstteki yazı kulanılarak programla oluşturulan yazıdır. Yazılımın mevcut çevirme başarısının müşahade edilebilmesi için yazıdaki imla hataları düzeltilmemiştir. --- 
@@ -30,6 +34,8 @@ https://github.com/khaled-alshamaa/ar-php, 2022
 و من الله توفیق
 
 https://github.com/khaled-alshamaa/ar-php, 2022
+
+TEST : https://cevir.teknikvideo.net/
 
 ######### ARABIC ###########
 
@@ -42,3 +48,5 @@ https://github.com/khaled-alshamaa/ar-php, 2022
 و من الله توفیق
 
 https://github.com/khaled-alshamaa/ar-php, 2022
+
+TEST : https://cevir.teknikvideo.net/
